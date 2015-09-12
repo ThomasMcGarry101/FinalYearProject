@@ -9,5 +9,6 @@ public class Testing {
 	public static void main(String args[])
 	{
 		Testing test = new Testing();
+		System.out.println("Seeing changes being made to the master...");
 	}
 }
